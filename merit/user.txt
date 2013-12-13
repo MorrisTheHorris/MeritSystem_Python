@@ -1,0 +1,5 @@
+admin|a|PASSWORD\
+dennis|s|de\
+daniel|s|fix\
+harrison|s| \
+michael|a|nope\
